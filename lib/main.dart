@@ -8,9 +8,9 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text("This is App Bar"),
+          title: Text("this is navbar"),
         ),
-        body: Text("hello Worlds"),
+        body: Text("This is body"),
       ),
     );
   }
